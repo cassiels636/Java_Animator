@@ -42,4 +42,4 @@ This view opens a new window and allows the user to play the animation in a more
 Other functions in this view are creating and viewing a subset of shapes and exporting the animations to a specified SVG file. In order to add or remove shapes from a subset, there is a dropdown that lists all the shapes in the animation by shape name and shape type. By selecting one, the shape is added to the subset and by reselecting it, it is removed from the subset. There is also a button that will open a new window and display the list of shapes currently in the subset. Next, there is also a button that will play the subset animation in the current window. Lastly, there are two buttons for exporting to a SVG file. One exports the subset and the other exports the entire animation. If there was a file name specified in the command line, the file will export to there. Otherwise, a dialog box will pop up asking for the user to input a file name to export the SVG view to.
 
 #### Interactive View Example
-!(https://github.com/cassiels636/Java_Animator/master/hybridView.png)
+![Interactive View](https://github.com/cassiels636/Java_Animator/blob/master/hybridView.PNG)
