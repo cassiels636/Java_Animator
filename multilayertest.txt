@@ -1,0 +1,32 @@
+layer name Layer0 layerorder 0
+layer name Layer1 layerorder 1
+layer name Layer2 layerorder 2
+layer name Layer3 layerorder 3
+
+rectangle name Rect1 layer Layer2 min-x 100 min-y 350 width 90 height 100 color 1 0 1 from 1 to 100
+oval name Oval1 layer Layer3 center-x 100 center-y 250 x-radius 60 y-radius 70 color 0 0 1 from 1 to 100
+rectangle name Rect2 layer Layer3 min-x 100 min-y 50 width 110 height 100 color 0 1 1 from 1 to 100
+oval name Oval2 layer Layer1 center-x 100 center-y 150 x-radius 70 y-radius 60 color 1 0 0 from 1 to 100
+rectangle name Rect3 layer Layer2 min-x 200 min-y 350 width 90 height 100 color 0.5 0 0.5 from 1 to 100
+oval name Oval3 layer Layer0 center-x 200 center-y 250 x-radius 60 y-radius 70 color 0 0 0.5 from 1 to 100
+rectangle name Rect4 layer Layer3 min-x 200 min-y 50 width 110 height 100 color 0 0.5 0.5 from 1 to 100
+oval name Oval4 layer Layer1 center-x 200 center-y 150 x-radius 70 y-radius 60 color 0.5 0 0 from 1 to 100
+rectangle name Rect5 layer Layer2 min-x 300 min-y 350 width 90 height 100 color 0.25 0 0.25 from 1 to 100
+oval name Oval5 layer Layer0 center-x 300 center-y 250 x-radius 60 y-radius 70 color 0 0 0.25 from 1 to 100
+rectangle name Rect6 layer Layer3 min-x 300 min-y 50 width 110 height 100 color 0 0.25 0.25 from 1 to 100
+oval name Oval6 layer Layer1 center-x 300 center-y 150 x-radius 70 y-radius 60 color 0.25 0 0 from 1 to 100
+
+rotate name Rect1 rotateto 0 720 from 1 to 80
+rotate name Oval1 rotateto 0 720 from 1 to 80
+rotate name Rect2 rotateto 0 720 from 1 to 80
+rotate name Oval2 rotateto 0 720 from 1 to 80
+rotate name Rect3 rotateto 0 720 from 1 to 80
+rotate name Oval3 rotateto 0 720 from 1 to 80
+rotate name Rect4 rotateto 0 720 from 1 to 80
+rotate name Oval4 rotateto 0 720 from 1 to 80
+rotate name Rect5 rotateto 0 720 from 1 to 80
+rotate name Oval5 rotateto 0 720 from 1 to 80
+rotate name Rect6 rotateto 0 720 from 1 to 80
+rotate name Oval6 rotateto 0 720 from 1 to 80
+move name Rect3 moveto 200 350 200 25 from 80 to 94
+move name Rect3 moveto 200 25 200 350 from 95 to 100
