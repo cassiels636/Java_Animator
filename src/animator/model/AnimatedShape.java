@@ -3,8 +3,8 @@ package animator.model;
 import java.util.ArrayList;
 import java.util.List;
 
-import cs3500.animator.model.enums.RefPointType;
-import cs3500.animator.model.enums.ShapeType;
+import animator.model.enums.RefPointType;
+import animator.model.enums.ShapeType;
 
 /**
  * Class that represents a shape that can be put into the animation.

@@ -1,6 +1,0 @@
-rectangle name Rect min-x 500 min-y 100 width 75 height 50 color 0 0.75 0.75 from 1 to 100
-rotate name Rect rotateto 0 45 from 10 to 30
-move name Rect moveto 500 100 200 200 from 5 to 25
-scale name Rect scaleto 75 50 100 100 from 31 to 60
-move name Rect moveto 200 200 400 300 from 40 to 75
-rotate name Rect rotateto 45 270 from 45 to 100

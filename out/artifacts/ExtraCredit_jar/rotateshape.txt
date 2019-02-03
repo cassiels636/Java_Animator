@@ -1,2 +1,0 @@
-oval name Oval center-x 300 center-y 200 x-radius 100 y-radius 50 color 0 0 1 from 1 to 100
-rotate name Oval rotateto 0 450 from 5 to 90

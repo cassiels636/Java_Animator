@@ -2,7 +2,7 @@ package animator.model;
 
 import java.util.List;
 
-import cs3500.animator.model.enums.AnimateTypes;
+import animator.model.enums.AnimateTypes;
 
 /**
  * Class for containing all animation types and their corresponding info.
