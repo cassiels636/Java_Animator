@@ -43,4 +43,3 @@ Other functions in this view are creating and viewing a subset of shapes and exp
 
 #### Interactive View Example
 !(https://github.com/cassiels636/Java_Animator/master/hybridView.png)
-
